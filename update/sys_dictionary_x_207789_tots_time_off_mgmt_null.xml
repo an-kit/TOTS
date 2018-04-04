@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_207789_tots_time_off_mgmt">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_207789_tots_time_off_mgmt">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -53,8 +53,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-04 15:42:05</sys_created_on>
-        <sys_id>91bc9a09db111300283cd170cf961912</sys_id>
+        <sys_created_on>2018-04-04 16:11:58</sys_created_on>
+        <sys_id>1f83ea4ddb111300283cd170cf9619dc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_207789_tots_time_off_mgmt</sys_name>
         <sys_package display_value="TOTS" source="x_207789_tots">bf699a74db911300283cd170cf9619a8</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="TOTS">bf699a74db911300283cd170cf9619a8</sys_scope>
         <sys_update_name>sys_dictionary_x_207789_tots_time_off_mgmt_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-04 15:42:05</sys_updated_on>
+        <sys_updated_on>2018-04-04 16:11:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

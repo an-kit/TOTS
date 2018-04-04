@@ -3,18 +3,18 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-04 15:42:04</sys_created_on>
-        <sys_id>99bc5a09db111300283cd170cf9619ff</sys_id>
+        <sys_created_on>2018-04-04 16:11:58</sys_created_on>
+        <sys_id>9b83ea4ddb111300283cd170cf9619c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_207789_tots_time_off_mgmt.x_207789_tots.time_off_mgmt_user</sys_name>
         <sys_package display_value="TOTS" source="x_207789_tots">bf699a74db911300283cd170cf9619a8</sys_package>
         <sys_policy/>
         <sys_scope display_value="TOTS">bf699a74db911300283cd170cf9619a8</sys_scope>
-        <sys_security_acl display_value="x_207789_tots_time_off_mgmt">d9bc5a09db111300283cd170cf9619fc</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_99bc5a09db111300283cd170cf9619ff</sys_update_name>
+        <sys_security_acl display_value="x_207789_tots_time_off_mgmt">5383ea4ddb111300283cd170cf9619c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9b83ea4ddb111300283cd170cf9619c8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-04 15:42:04</sys_updated_on>
-        <sys_user_role display_value="x_207789_tots.time_off_mgmt_user" name="x_207789_tots.time_off_mgmt_user">1dbc5a85db111300283cd170cf961991</sys_user_role>
+        <sys_updated_on>2018-04-04 16:11:58</sys_updated_on>
+        <sys_user_role display_value="x_207789_tots.time_off_mgmt_user" name="x_207789_tots.time_off_mgmt_user">038362c9db111300283cd170cf961929</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

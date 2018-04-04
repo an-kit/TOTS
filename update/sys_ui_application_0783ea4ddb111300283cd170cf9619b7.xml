@@ -3,23 +3,23 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>Time Off Mgmt</name>
+        <name>Time off Mgmt</name>
         <order/>
         <roles>x_207789_tots.time_off_mgmt_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-04 15:42:04</sys_created_on>
+        <sys_created_on>2018-04-04 16:11:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>5dbc5a09db111300283cd170cf9619df</sys_id>
+        <sys_id>0783ea4ddb111300283cd170cf9619b7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Time Off Mgmt</sys_name>
+        <sys_name>Time off Mgmt</sys_name>
         <sys_overrides/>
         <sys_package display_value="TOTS" source="x_207789_tots">bf699a74db911300283cd170cf9619a8</sys_package>
         <sys_policy/>
         <sys_scope display_value="TOTS">bf699a74db911300283cd170cf9619a8</sys_scope>
-        <sys_update_name>sys_ui_application_5dbc5a09db111300283cd170cf9619df</sys_update_name>
+        <sys_update_name>sys_ui_application_0783ea4ddb111300283cd170cf9619b7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-04 15:42:04</sys_updated_on>
+        <sys_updated_on>2018-04-04 16:11:58</sys_updated_on>
     </sys_ui_application>
 </record_update>
