@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="TOTS" max_length="40" name="x_207789_tots_tots" type="collection">
+    <element label="Time Off Mgmt" max_length="40" name="x_207789_tots_time_off_mgmt" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
